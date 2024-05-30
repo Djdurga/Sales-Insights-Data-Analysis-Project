@@ -1,5 +1,5 @@
 # Sales-Insights-Data-Analysis-Project
-We use MySQL and Power BI to understand this project.
+I used MySQL and Power BI to understand this project.
 
 ## Data Analysis Using SQL
 
